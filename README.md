@@ -1,5 +1,5 @@
 # AI4EVER
-<p align="center">
+<p align="left">
   <img src="/Logo.png" alt="Alt text" width="300"/>
 </p>
 
