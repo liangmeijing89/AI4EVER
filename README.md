@@ -1,6 +1,6 @@
 # AI4EVER
 <p>
-  <img src="/Logo.png" alt="Alt text" width="300"/>
+<img src="/Logo.png" alt="Alt text" width="300"/>
 </p>
 
 A User-Friendly Platform to Bridge Deep Learning and Genomic Selection
