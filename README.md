@@ -18,13 +18,10 @@ https://doi.org/10.20944/preprints202603.0876.v1
 If you use AI4EVER in your research, please cite:
 
 Liang, M.; Hu, Y.; Zhang, Z. AI4EVER: A Graphical Deep Learning Platform for GWAS-Informed Genomic Prediction. *Preprints* 2026, 2026030876.  
-https://doi.org/10.20944/preprints202603.0876.v1
 
 ## 🔁 Reproducibility
 
 A reproducible Code Ocean capsule is available for reviewers and users:
-
-**Code Ocean DOI:**  
-https://doi.org/10.24433/CO.5723027.v1
+https://codeocean.com/capsule/3041436/tree
 
 The capsule includes example datasets, scripts, and documented workflows for reproducing representative AI4EVER genomic prediction analyses.
